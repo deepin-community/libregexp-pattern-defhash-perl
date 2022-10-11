@@ -1,0 +1,11 @@
+libregexp-pattern-defhash-perl (0.001-2) unstable; urgency=medium
+
+  * Source-only upload.
+
+ -- Étienne Mollier <emollier@debian.org>  Tue, 28 Sep 2021 20:30:43 +0200
+
+libregexp-pattern-defhash-perl (0.001-1) unstable; urgency=low
+
+  * Initial release.  (Closes: #994838)
+
+ -- Étienne Mollier <emollier@debian.org>  Tue, 21 Sep 2021 20:42:35 +0200

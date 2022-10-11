@@ -1,0 +1,6 @@
+#!/usr/bin/make -f
+# This enables the test suite for preparing release of the module.
+export RELEASE_TESTING = true
+
+%:
+	dh $@
